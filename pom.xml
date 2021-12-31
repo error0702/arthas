@@ -75,7 +75,7 @@
     </modules>
 
     <properties>
-        <revision>3.5.4</revision>
+        <revision>3.5.5</revision>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.target>1.6</maven.compiler.target>
         <maven.compiler.source>1.6</maven.compiler.source>
@@ -84,7 +84,7 @@
         <jacoco.skip>${skipTests}</jacoco.skip>
         <project.build.outputTimestamp>2020-09-27T15:10:43Z</project.build.outputTimestamp>
         <lifecycle-mapping.version>1.0.0</lifecycle-mapping.version>
-        <netty.version>4.1.59.Final</netty.version>
+        <netty.version>4.1.71.Final</netty.version>
     </properties>
 
     <dependencyManagement>
